@@ -1,3 +1,9 @@
+I bought a monitor and I wanted some sort of clock running on my macbook on the side. But all the flipclock apps either have ads, or the apps are made by well I won't say it. So I put in a quick prompt in ChatGPT, did some debugginh, and here I have a clock that runs on my own vercel link without the ads and distractions!
+
+Star the repo if you want the vercel link, cuz I am going to be making improvements to this and then giving doing a better job by not putting ads on it.
+
+Follow the steps below to create your own nextjs project
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
